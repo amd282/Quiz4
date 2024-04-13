@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using MvcMovie.Models;
+using Quiz4.Models;
 
 namespace Quiz4.Data
 {
@@ -14,6 +14,6 @@ namespace Quiz4.Data
         {
         }
 
-        public DbSet<MvcMovie.Models.Movie> Movie { get; set; } = default!;
+        public DbSet<Quiz4.Models.Movie> Movie { get; set; } = default!;
     }
 }

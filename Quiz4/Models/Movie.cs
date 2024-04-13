@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace MvcMovie.Models
+namespace Quiz4.Models
 {
     public class Movie
     {
