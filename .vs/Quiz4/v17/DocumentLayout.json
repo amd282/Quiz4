@@ -3,64 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\migrations\\20240413172605_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\migrations\\20240413172605_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\data\\quiz4context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\data\\quiz4context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|c:\\users\\amd28\\documents\\github\\quiz4\\quiz4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{680EA20D-CBB2-4C85-A0DA-97B6381B605C}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,199 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Movies\\Index.cshtml",
-              "RelativeDocumentMoniker": "Quiz4\\Views\\Movies\\Index.cshtml",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Movies\\Index.cshtml",
-              "RelativeToolTip": "Quiz4\\Views\\Movies\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T17:39:24.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Movies\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Quiz4\\Views\\Movies\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Movies\\Edit.cshtml",
-              "RelativeToolTip": "Quiz4\\Views\\Movies\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T17:39:19.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Movies\\Details.cshtml",
-              "RelativeDocumentMoniker": "Quiz4\\Views\\Movies\\Details.cshtml",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Movies\\Details.cshtml",
-              "RelativeToolTip": "Quiz4\\Views\\Movies\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T17:38:59.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Movies\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Quiz4\\Views\\Movies\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Movies\\Delete.cshtml",
-              "RelativeToolTip": "Quiz4\\Views\\Movies\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T17:38:47.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Movies\\Create.cshtml",
-              "RelativeDocumentMoniker": "Quiz4\\Views\\Movies\\Create.cshtml",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Movies\\Create.cshtml",
-              "RelativeToolTip": "Quiz4\\Views\\Movies\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T17:38:36.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Quiz4Context.cs",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Data\\Quiz4Context.cs",
-              "RelativeDocumentMoniker": "Quiz4\\Data\\Quiz4Context.cs",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Data\\Quiz4Context.cs",
-              "RelativeToolTip": "Quiz4\\Data\\Quiz4Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:35:32.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Program.cs",
-              "RelativeDocumentMoniker": "Quiz4\\Program.cs",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Program.cs",
-              "RelativeToolTip": "Quiz4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:32:16.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "Quiz4\\Models\\SeedData.cs",
               "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Models\\SeedData.cs",
               "RelativeToolTip": "Quiz4\\Models\\SeedData.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAcAAAABAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:31:49.202Z",
+              "WhenOpened": "2024-04-13T17:59:26.639Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20240413172605_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Migrations\\20240413172605_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Quiz4\\Migrations\\20240413172605_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Migrations\\20240413172605_InitialCreate.cs",
-              "RelativeToolTip": "Quiz4\\Migrations\\20240413172605_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:26:05.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "Quiz4\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "Quiz4\\Controllers\\MoviesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:22:46.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Quiz4\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Models\\Movie.cs",
-              "RelativeToolTip": "Quiz4\\Models\\Movie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:20:11.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HelloWorldController.cs",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Controllers\\HelloWorldController.cs",
-              "RelativeDocumentMoniker": "Quiz4\\Controllers\\HelloWorldController.cs",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Controllers\\HelloWorldController.cs",
-              "RelativeToolTip": "Quiz4\\Controllers\\HelloWorldController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T17:15:39.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\HelloWorld\\Welcome.cshtml",
-              "RelativeDocumentMoniker": "Quiz4\\Views\\HelloWorld\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\HelloWorld\\Welcome.cshtml",
-              "RelativeToolTip": "Quiz4\\Views\\HelloWorld\\Welcome.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T17:19:33.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Quiz4\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Quiz4\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T17:17:33.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeDocumentMoniker": "Quiz4\\Views\\HelloWorld\\Index.cshtml",
-              "ToolTip": "C:\\Users\\amd28\\Documents\\GitHub\\Quiz4\\Quiz4\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeToolTip": "Quiz4\\Views\\HelloWorld\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T17:17:10.791Z"
             }
           ]
         }

@@ -51,6 +51,14 @@ namespace Quiz4.Models
                         ReleaseDate = DateTime.Parse("1959-4-15"),
                         Genre = "Western",
                         Price = 3.99M
+                    },
+
+                    new Movie
+                    {
+                        Title = "Interstellar",
+                        ReleaseDate = DateTime.Parse("1959-4-15"),
+                        Genre = "Scifi",
+                        Price = 5.99M
                     }
                 );
                 context.SaveChanges();
